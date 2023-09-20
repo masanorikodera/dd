@@ -1,4 +1,4 @@
-# dd
+# README
 data set and script for the manuscript in Digital Discovery
 
 This sourse code was originally developed by Prof. Hiromasa Kaneko.
